@@ -1,7 +1,7 @@
 # Site settings
 title: Grace Khieu
 tagline: raw. organic. genuine.
-logo-fa-class: fa-diamond
+logo-fa-class: fa-camera
 description: > # this means to ignore newlines until "baseurl:"
   life is fun
 baseurl: "" # the subpath of your site, e.g. /blog
